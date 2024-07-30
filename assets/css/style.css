@@ -10,16 +10,15 @@ input{
 }
 label{
     font-size: xx-large;
+    font-family: 'Lucida Sans';
+    
 }
 
 form{
     background-color: aquamarine;
 }
 
-div {
-    background-color: coral;
-    height: 100px;
-}
+
 
 section {
     background-color: white;
@@ -38,4 +37,18 @@ footer {
 .contenedor{
     height: 100px;
     background-color:rgb(159, 212, 53);
+}
+
+article {
+    border: solid 2px black;
+    background-color:yellow ;
+    height: 100px;
+    margin: 30px;
+    padding: 50px;
+}
+
+div {
+    background-color: coral;
+    height: 30px;
+    border: solid 2px black;
 }
